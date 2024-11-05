@@ -1,0 +1,1 @@
+This project was created to display work produced in daily tasks. It is incomplete and not fully professional. If  you have any questions, please submit an issue in this project.
